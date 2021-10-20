@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+<!--    <string name="previous">Previous</string>-->
+    <string name="login">是</string>
+    <string name="head_login">登录</string>
+    <string name="register">否</string>
+    <string name="username">用户名</string>
+    <string name="pwd">密码</string>
+    <string name="phone">电话</string>
+    <string name="yes">抱歉我也不会</string>
+    <string name="bye">期待与您再次相见</string>
+    <string name="hello_first_fragment">你想跟着我们学习吗？</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
