@@ -8,12 +8,21 @@
         <entry key="..\:/Users/20843/AndroidStudioProjects/MyApplication2/app/src/main/res/layout-v21/login.xml" value="0.16354166666666667" />
         <entry key="..\:/Users/20843/AndroidStudioProjects/MyApplication2/app/src/main/res/layout-v22/login.xml" value="0.1490036231884058" />
         <entry key="..\:/Users/20843/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/20843/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/activity_main2.xml" value="0.18385416666666668" />
         <entry key="..\:/Users/20843/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/content_main.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/20843/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/dropdown_bg_selector.xml" value="0.1" />
+        <entry key="..\:/Users/20843/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/dropdown_list_selector.xml" value="0.1" />
+        <entry key="..\:/Users/20843/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/dropdownlist_popupwindow.xml" value="0.1" />
+        <entry key="..\:/Users/20843/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/dropdownlist_view.xml" value="0.1" />
         <entry key="..\:/Users/20843/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/fragment_first.xml" value="0.3333333333333333" />
         <entry key="..\:/Users/20843/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/fragment_second.xml" value="0.22" />
         <entry key="..\:/Users/20843/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/login.xml" value="0.22" />
         <entry key="..\:/Users/20843/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/login2.xml" value="0.1" />
+        <entry key="..\:/Users/20843/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/main.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/20843/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/myitem.xml" value="0.19895287958115182" />
+        <entry key="..\:/Users/20843/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/myspinner_layout.xml" value="0.18385416666666668" />
         <entry key="..\:/Users/20843/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/register.xml" value="0.125" />
+        <entry key="..\:/Users/20843/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/search.xml" value="0.1" />
         <entry key="..\:/Users/20843/AndroidStudioProjects/MyApplication2/app/src/main/res/menu/menu_main.xml" value="0.16354166666666667" />
       </map>
     </option>
@@ -23,5 +32,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.4466666666666667" />
+      </ProjectState>
+    </option>
   </component>
 </project>
